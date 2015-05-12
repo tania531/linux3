@@ -7,3 +7,5 @@ this one has none or 1
 this one has 1, no 2!
 
 if my count is right, the result will be 3 lines contain numbers, yes!
+
+after testing again it's 5 now...
